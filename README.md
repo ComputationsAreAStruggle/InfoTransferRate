@@ -7,7 +7,7 @@ Many humans are not very good at timing things. This is attributable to many fac
 Before delving into this subject, I want to state that I know there are multiple ways to define information transfer and I know that my narrowing down isn't...exactly...accurate...but I'm trying to go with as-simple-as-possible so I don't fry my brain in the process of thinking about this. I can't even wrap my mind around how the brain stores information (yea I get the memory encode and storage theories, but how exactly does it work? Would it be possible to recreate a model of the brain's memory-encoding-and-storing algorithms and run that successfully? I don't know of any such model but if you know of one please tell me.
 
 # Papers and sites to check out
-Ok, this is not a completed readme at all. But, here's the stuff I've been reading and playing around with:     
+Ok, this readme is far from completed. But, here's the stuff I've been reading and playing around with:     
 
 - Bits from brains for biologically inspired computing: https://www.frontiersin.org/articles/10.3389/frobt.2015.00005/full#B22      
 - How much information is associated with a particular stimulus?: https://www.ncbi.nlm.nih.gov/pubmed?Db=pubmed&Cmd=Retrieve&list_uids=12790180&dopt=abstractplus      

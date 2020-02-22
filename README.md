@@ -15,3 +15,4 @@ Ok, this readme is far from completed. But, here's the stuff I've been reading a
 - Information theory in the brain: https://www.cell.com/current-biology/comments/S0960-9822(00)00609-6     
 - Evaluating True BCI Communication Rate through Mutual Information and Language Models: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078432     
 - A Tutorial for Information Theory in Neuroscience: https://www.researchgate.net/publication/326073432_A_Tutorial_for_Information_Theory_in_Neuroscience    
+Toggl - a method for measuring the amount of time a task takes: https://toggl.com/
